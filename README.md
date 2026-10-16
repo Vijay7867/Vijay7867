@@ -19,6 +19,21 @@ Self-taught developer building Python tools and browser graphics projects with a
 | [YouTube Voice Assistant V3](https://github.com/Vijay7867/youtube_voice_v3) | Python command handling, Termux speech input and YouTube command modules; work in progress. |
 | Mobile Boxing Arena | Private Three.js prototype with a CAD ring, procedural boxer and touch controls. Camera tracking and opponent AI are planned. |
 
+## Coming Soon: Termux + Shadow Boxing AI + Robotics
+
+A connected software-and-hardware project concept, developed through an Android + Termux workflow.
+
+| Planned stage | Goal | Status |
+| --- | --- | --- |
+| Phone camera → boxer movement | Map punches, guard and dodge to the on-screen boxer | Planned; camera tracking is not implemented in the current arena |
+| ESP32 + IMU glove → arena | Send hand-motion sensor data into the boxing scene | Planned integration; hardware validation required |
+| On-screen opponent and sensor tests | Test opponent behavior and sensor input in simulation before physical robot control | Planned |
+| Physical robot | Explore hardware interaction after the software and sensor stages are validated | Concept; robot form and capabilities are not decided |
+
+The portfolio goal is a working software demo plus a real sensor prototype. A physical robot needs a suitable controller, motors/actuators, power supply and separate hardware testing. A voice assistant and a moving robot are different possible directions; neither is claimed as a completed feature here.
+
+Project ideas, implementation progress, test results and known failures will be documented on GitHub. Concepts will stay marked as planned until verified. No release date is promised.
+
 ## Currently improving
 
 - Reproducible Python setup instructions and small working examples.
