@@ -12,6 +12,9 @@ Self-taught developer building Python tools and browser graphics projects with a
 
 | Project | What it explores |
 | --- | --- |
+| [Termux Expense Tracker](https://github.com/Vijay7867/termux-expense-tracker) | Offline INR expenses, category totals and CSV export. Cloud tests pass; Android testing pending. |
+| [Termux Task Manager](https://github.com/Vijay7867/termux-task-manager) | Offline tasks, due dates, completion and reopening. No background alarms. |
+| [Termux Downloads Organizer](https://github.com/Vijay7867/termux-downloads-organizer) | Preview-first file grouping with explicit moves and collision checks. |
 | [Cyber Investigation Lab](https://github.com/Vijay7867/cyber-investigation-lab) | Python and SQLite learning scripts for synthetic datasets, evidence records and reports. |
 | [YouTube Voice Assistant V3](https://github.com/Vijay7867/youtube_voice_v3) | Python command handling, Termux speech input and YouTube command modules; work in progress. |
 | Mobile Boxing Arena | Private Three.js prototype with a CAD ring, procedural boxer and touch controls. Camera tracking and opponent AI are planned. |
